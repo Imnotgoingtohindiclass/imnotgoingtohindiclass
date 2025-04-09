@@ -49,7 +49,7 @@
 
 ### 🎨 Design
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-ps://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
+![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=imnotgoingtohindiclass&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
