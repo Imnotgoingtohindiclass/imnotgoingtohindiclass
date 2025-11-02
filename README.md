@@ -1,5 +1,5 @@
 # About Me:
-Sec 4 Student @ the **School of Science and Technology**, Singapore<br>Engineering+ Applied Subject<br>Cybersecurity enthusiast
+Sec 4 Student @ the **School of Science and Technology, Singapore**<br>Engineering+ Applied Subject<br>Cybersecurity enthusiast
 
 
 ## Socials:
