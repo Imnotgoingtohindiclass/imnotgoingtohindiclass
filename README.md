@@ -1,5 +1,5 @@
 # About Me:
-Sec 4 Student @ the **School of Science and Technology, Singapore**<br>Engineering+ Applied Subject<br>Cybersecurity enthusiast
+Year 1 Student @ **School of Engineering** in **Ngee Ann Polytechnic**<br>Biomedical Engineering<br>Cybersecurity enthusiast
 
 
 ## Socials:
